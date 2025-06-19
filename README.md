@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:msharraf258@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shuraifmuha/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="[https://linkedin.com/in/shuraifmuha](https://www.linkedin.com/in/shuraifmuha/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
 <!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=web"></a> -->
 </p>
 
