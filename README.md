@@ -17,17 +17,20 @@ I’m a skilled MERN stack developer with a strong background in building scalab
 ---
 
 ### 🛠️ Technical Skills
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB, SQL  
-- **Other**: Data Structures & Algorithms, RESTful APIs, WebRTC, Socket.IO  
+- **Frontend**: React, Next.js, Vue.js, TypeScript, Tailwind CSS  
+- **Backend**: Node.js, Nestjs, Express.js, Socket.io, WebRTC  
+- **Database**: MongoDB, PostgreSQL, Prisma
+- **AI/LLM**: LangChain, Qdrant, RAG
+- **DevOps/Cloud**: Docker, CI/CD
+- **Testing & QA**: Jest  
+- **Concepts & Architectures**: DSA, OOP, SOLID Principles, Clean Architecture  
 
 ---
 
 ### 🚀 Featured Projects
 - **[webiLink]([link-to-repo](https://github.com/Shuraifp/webiLink))**: A full-stack Video Conferencing Platform built with MERN and Next.js, featuring HD video calls, real-time chat public and private, polls, QA, breakout rooms and subscription integration using stripe. Optimized for performance and scalability.  
 - **[E-Commerce Platform]([link-to-repo](https://github.com/Shuraifp/viva-bags))**: A MERN-based e-commerce site, secure authentication with JWT, and payment integration using razorpay.  
-
+- **[ArtiFeed]([link-to-repo](https://github.com/Shuraifp/ArtiFeed))**: An Article feed application where users can interact with articles based on interest and preferences.
 ---
 
 ### 📊 GitHub Insights
